@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E2CCECFB-4CBE-4FF8-9CDE-79376506FC3E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchDayOfTheWeek/Program.cs">
+    <Files>
+      <File FileName="Week3IfAndSwitch/Program.cs" Line="8" Column="4" IsPinned="True" />
+      <File FileName="OddOrEven/Program.cs" Line="15" Column="2" IsPinned="True" />
+      <File FileName="IfDayOfTheWeek/Program.cs" />
+      <File FileName="SwitchDayOfTheWeek/Program.cs" Line="23" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week3IfAndSwitch" expanded="True">
+            <Node name="OddOrEven" expanded="True" />
+            <Node name="SwitchDayOfTheWeek" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Week3IfAndSwitch" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Week3IfAndSwitch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OddOrEven PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SwitchDayOfTheWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.IfDayOfTheWeek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

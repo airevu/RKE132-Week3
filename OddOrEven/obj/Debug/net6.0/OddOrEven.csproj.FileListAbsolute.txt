@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/bin/Debug/net6.0/OddOrEven
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/bin/Debug/net6.0/OddOrEven.deps.json
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/bin/Debug/net6.0/OddOrEven.runtimeconfig.json
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/bin/Debug/net6.0/OddOrEven.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/bin/Debug/net6.0/OddOrEven.pdb
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/refint/OddOrEven.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.pdb
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/OddOrEven.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/OddOrEven/obj/Debug/net6.0/ref/OddOrEven.dll

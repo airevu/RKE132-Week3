@@ -1,0 +1,15 @@
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.csproj.AssemblyReference.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.AssemblyInfoInputs.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.AssemblyInfo.cs
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.deps.json
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.runtimeconfig.json
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/bin/Debug/net6.0/IfDayOfTheWeek.pdb
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/refint/IfDayOfTheWeek.dll
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.pdb
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/IfDayOfTheWeek.genruntimeconfig.cache
+/Users/airevuchmann/Projects/Week3IfAndSwitch/IfDayOfTheWeek/obj/Debug/net6.0/ref/IfDayOfTheWeek.dll
